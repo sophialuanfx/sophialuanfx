@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sophialuanfx&label=Profile%20views&color=0e75b6&style=flat" alt="sophialuanfx" /> </p>
 
-- 🔭 I’m currently working on **Smart Fridge AI Chatbot**
+- 🔭 I’m currently working on **Smart Job Match**
 
 - 🌱 I’m currently learning **LLM**
 
